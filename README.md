@@ -29,6 +29,7 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 No, because there are not enough qualified employees that could train the next generation of Pewlett Hackard employees.
 
+![](Resources/mentorship.png)
 
 
 
