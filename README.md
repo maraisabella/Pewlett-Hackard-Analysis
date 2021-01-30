@@ -27,10 +27,12 @@ The amount of roles that have to be filled within the next four years are:
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There is a lower amount of employees who are eligible to participate in the mentoship program in comparison to the amount of employees that will be retiring. 
+No, because there are not enough qualified employees that could train the next generation of Pewlett Hackard employees.
 
-The query that was used to find the amount of retiring employees was:
-* 
+
+
+
+
 
 
 
