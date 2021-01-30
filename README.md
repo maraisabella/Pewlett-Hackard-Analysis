@@ -14,7 +14,7 @@ In comparison to the rest of the positions that were ready to retire, based on o
 
 * A small amount of retiring titles are in the management position titles.
 
-* There was also no employees in the Manager position that were eligible for the mentorship program.
+* There is a a large difference between retiring staff versus those who will be eligible to participate in the mentorship program.
 
 Based on our analysis, it was easy to note with our results that there is a disporportion between the distribution of job titles and employees.
 
