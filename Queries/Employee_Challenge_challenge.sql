@@ -1,3 +1,4 @@
+#Deliverable 1
 SELECT employees.emp_no,
 employees.first_name,
 employees.last_name,
@@ -46,7 +47,7 @@ INNER JOIN dept_emp
 ON employees.emp_no = dept_emp.emp_no
 INNER JOIN titles
 ON employees.emp_no = titles.emp_no
-WHERE (employees.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND
+WHERE (employees.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND.           #Deliverable 2
 (titles.to_date = '9999-01-01')
 ORDER BY titles.emp_no;
 
